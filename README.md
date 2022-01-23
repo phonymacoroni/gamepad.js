@@ -1,3 +1,5 @@
+This repository is stolen from "gamepad.js" to determine basic functionality experimentation
+
 gamepad.js
 ===
 
